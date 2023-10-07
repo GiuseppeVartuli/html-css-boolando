@@ -49,6 +49,12 @@ a{
 .model{
     height: 600px;
     width: 400px;
+    display: block;
+}
+.change{
+    display: none;
+    height: 600px;
+    width: 400px;
 }
 .container{
     padding: 10px;
@@ -105,3 +111,13 @@ a{
 }
 
 
+
+
+
+
+.change-img:hover .model{
+    display: none;
+}
+.change-img:hover .change{
+    display: block;
+}
