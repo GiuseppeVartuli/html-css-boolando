@@ -23,16 +23,17 @@ a{
     align-content: space-between;
 }
 .type{
-    margin-left: 410px;
+    margin-left: 385px;
     margin-top: 20px;
 }
 .logo{
     height: 30px;
     margin-top: 10px;
+    margin-left: 120px;
 }
 .account{
     margin-top: 20px;
-    margin-right: 460px;
+    margin-right: 280px;
 }
 
 
@@ -129,11 +130,13 @@ a{
     height: 150px;
     display: flex;
     justify-content: space-around;
+    align-content: space-around;
     color: white;
-    padding: 10px;
+    padding-left: 60px;
+    padding-top: 30px;
 }
 
-a{
-    padding: 15px;
+h4{
+    padding: 10px;
 }
 
