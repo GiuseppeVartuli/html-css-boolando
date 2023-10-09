@@ -151,11 +151,31 @@ a{
     justify-content: space-around;
     align-content: space-around;
     color: white;
-    padding-left: 60px;
-    padding-top: 30px;
-}
 
+}
+.information{
+    position: relative;
+}
+.legal{
+    position: absolute;
+    top: 60px;
+}
+.privacy{
+    position: absolute;
+    top: 60px;
+    left: 200px;
+}
+.cancelletion{
+    position: absolute;
+    top: 60px;
+    left: 300px;
+}
 h4{
-    padding: 10px;
+    position: absolute;
+    top: 30px;
+    left: -96px;
 }
+h5{
+    position: absolute;
 
+}
