@@ -153,29 +153,19 @@ a{
     color: white;
 
 }
-.information{
-    position: relative;
-}
-.legal{
-    position: absolute;
-    top: 60px;
-}
-.privacy{
-    position: absolute;
-    top: 60px;
-    left: 200px;
-}
-.cancelletion{
-    position: absolute;
-    top: 60px;
-    left: 300px;
-}
-h4{
-    position: absolute;
-    top: 30px;
-    left: -96px;
-}
-h5{
-    position: absolute;
 
+.information{
+    padding: 50px;
+}
+
+.legal{
+    padding-top: 10px;
+}
+
+
+
+
+.prezzi{
+    display: flex;
+    gap: 10px;
 }
