@@ -65,6 +65,7 @@ a{
 .showcase-under{
     display: flex;
     padding-left: 20%;
+    padding-bottom: 20px;
 }
 .model{
     height: 600px;
@@ -154,6 +155,12 @@ a{
 
 }
 
+
+.information a{
+    padding: 5px;
+    padding-top: 3px;
+}
+
 .information{
     padding: 50px;
 }
@@ -162,7 +169,14 @@ a{
     padding-top: 10px;
 }
 
+.social{
+    padding: 50px;
+}
 
+.social> div{
+    display: inline-block;
+    padding: 5px;
+}
 
 
 .prezzi{
